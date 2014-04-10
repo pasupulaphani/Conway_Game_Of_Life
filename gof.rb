@@ -88,3 +88,7 @@ end
 puts "press \"q\" to quit or enter for next generation"
 puts "\n blinker \n\n"
 GameOfLife.new(3, [[1, 0], [1, 1], [1, 2]])
+
+
+# puts "\n glider \n\n"
+# GameOfLife.new(4, [[1,0],[2,1],[0,2],[1,2],[2,2]])
