@@ -19,3 +19,6 @@ Conway's Game of Life
       OOO
       ###
       OOO
+
+
+![alt tag](http://upload.wikimedia.org/wikipedia/commons/9/95/Game_of_life_blinker.gif)
